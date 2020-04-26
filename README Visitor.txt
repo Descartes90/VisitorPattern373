@@ -1,0 +1,1 @@
+Visitor Pattern 373README for visitor pattern project for COMP-373. Run shipmentClient to get output in console. Eclipse IDE was used. This program solves the problem of creating a pricing system for a retail business. Tests are in VisitorTest.java, to run them right click the file and scroll down to ‘run as’ and run it as a Junit Test
